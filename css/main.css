@@ -20,19 +20,19 @@ a,a:active,a:focus,input:focus {
 }
 
 ::-webkit-input-placeholder {
-  color: rgba(255,255,255,0.1);
+  color: black;
 }
 
 :-moz-placeholder {
-  color: rgba(255,255,255,0.1);
+  color: black ;
 }
 
 ::-moz-placeholder {
-  color: rgba(255,255,255,0.1);
+  color: black;
 }
 
 :-ms-input-placeholder {
-  color: rgba(255,255,255,0.1);
+  color: black;
 }
 
 input {
