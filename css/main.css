@@ -255,6 +255,7 @@ a.btn-bordered {
 
 .sven-badge {
   position: fixed;
+  font-family: Raleway;
   left: 0;
   right: 0;
   bottom: 2em;
@@ -389,7 +390,7 @@ a.btn-bordered {
 }
 
 #minimos-4,#minimos-4 .spinner:after {
-  font-family: "Josefin Sans",sans-serif;
+  font-family: "Raleway",sans-serif;
   background: #F85E25;
 }
 
